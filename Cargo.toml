@@ -1,0 +1,8 @@
+[package]
+name = "link-header"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+http = "0.2"
+headers = "0.3"
